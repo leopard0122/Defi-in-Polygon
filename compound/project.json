@@ -1,0 +1,9 @@
+{
+  "name": "Compound",
+  "category": "lending",
+  "website": "https://compound.finance",
+  "logo": "logo.png",
+  "background": "#070a0e",
+  "foreground": "#ffffff",
+  "network": "ethereum"
+}

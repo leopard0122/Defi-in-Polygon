@@ -1,0 +1,9 @@
+{
+  "name": "Revault",
+  "category": "vault",
+  "website": "https://revault.network",
+  "logo": "logo.png",
+  "background": "#14162c",
+  "foreground": "#ffffff",
+  "network": "bsc"
+}

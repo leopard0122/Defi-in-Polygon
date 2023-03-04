@@ -1,0 +1,9 @@
+{
+  "name": "Dot Finance",
+  "category": "vault",
+  "website": "https://dot.finance",
+  "logo": "logo.png",
+  "background": "#2c1f40",
+  "foreground": "#ffffff",
+  "network": "bsc"
+}

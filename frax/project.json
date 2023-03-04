@@ -1,0 +1,10 @@
+{
+  "name": "Frax",
+  "category": "dex",
+  "website": "https://frax.finance",
+  "logo": "logo.png",
+  "background": "#000000",
+  "foreground": "#ffffff",
+  "network": "ethereum",
+  "dev": true
+}

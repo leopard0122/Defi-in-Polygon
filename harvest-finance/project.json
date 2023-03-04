@@ -1,0 +1,9 @@
+{
+  "name": "Harvest",
+  "category": "vault",
+  "website": "https://harvest.finance",
+  "logo": "logo.png",
+  "background": "#d6f1f1",
+  "foreground": "#48453b",
+  "network": "ethereum"
+}

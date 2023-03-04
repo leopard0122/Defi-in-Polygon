@@ -1,0 +1,9 @@
+{
+  "name": "Uniswap V2",
+  "category": "amm",
+  "website": "https://uniswap.org",
+  "logo": "logo.png",
+  "background": "#ff007a",
+  "foreground": "#ffffff",
+  "network": "ethereum"
+}

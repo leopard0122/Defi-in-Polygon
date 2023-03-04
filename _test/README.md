@@ -1,0 +1,1 @@
+See [Testing your integration](../README.md#testing-your-integration) in the main README

@@ -1,0 +1,9 @@
+{
+  "name": "KogeFarm",
+  "category": "vault",
+  "website": "https://kogefarm.io",
+  "logo": "logo.png",
+  "background": "#00a93a",
+  "foreground": "#ffffff",
+  "network": "polygon"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Pangolin",
+  "category": "amm",
+  "website": "https://pangolin.exchange",
+  "logo": "logo.png",
+  "background": "#1a1a1a",
+  "foreground": "#fdfdfd",
+  "network": "avalanche"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Ethereum",
+  "category": "blockchain",
+  "website": "https://ethereum.org",
+  "logo": "logo.png",
+  "background": "#454a75",
+  "foreground": "#ffffff",
+  "network": "ethereum"
+}

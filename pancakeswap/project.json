@@ -1,0 +1,9 @@
+{
+  "name": "PancakeSwap",
+  "category": "amm",
+  "website": "https://pancakeswap.finance/",
+  "logo": "logo.png",
+  "background": "#3ad0da",
+  "foreground": "#ffffff",
+  "network": "bsc"
+}
